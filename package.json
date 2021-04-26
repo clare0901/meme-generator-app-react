@@ -2,7 +2,7 @@
   "name": "meme_generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://clare0901.github.io/calculator-app-react",
+  "homepage": "https://clare0901.github.io/meme-generator-app-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
