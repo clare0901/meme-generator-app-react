@@ -1,0 +1,72 @@
+.header{
+  background: linear-gradient(rgb(8, 8, 46), lightblue);
+  height: 70px;
+}
+.title{
+  text-align: center;
+  padding: 17px 0 0 0;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+
+.textDiv{
+  text-align: center;
+}
+.textDiv > input{  
+  font-size: 20px;
+  margin: 50px 15px 60px 0;
+  padding: 5px;
+}
+
+/* dispay part */
+.memeDiv{
+  position: relative;
+  width: 500px;
+  margin: auto;
+}
+
+.memeDiv > h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 2px;
+  font-size:"10px";
+  text-transform: uppercase;
+  background-color: black;
+  color:white;
+  position: absolute;
+  left: 50%;
+  text-align: center;
+  margin: 10px 0 10px 0;
+  transform: translateX(-50%);
+}
+
+.image{
+  height: 10%;
+  width: 100%;
+}
+.topText{
+  top: 0;
+}
+
+.bottomText{
+  bottom: 0;
+}
+
+.generate_button{
+  color: white;
+  font-size: 24px;
+  width: 100px;
+  height: 43px;
+  border: none;
+  border-radius: 2px;
+  background:linear-gradient(rgb(15, 15, 83),lightblue);
+}
+
+.download_button{
+  height: 43px;
+  border: none;
+  border-radius: 2px;
+  color: white;
+  background: black;
+  margin-top: 20px;
+}
